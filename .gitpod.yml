@@ -7,3 +7,4 @@ vscode:
    - redhat.java
    - vscjava.vscode-java-debug
    - revaturePro.revature-labs
+   - vscjava.vscode-java-pack
